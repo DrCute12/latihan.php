@@ -1,1 +1,3 @@
 # latihan.php
+
+LETAK ERRORNYA DIMANA KONTOL 
